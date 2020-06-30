@@ -15,3 +15,7 @@ Notes and excercises related to the Udemy course [Master Math by Coding in Pytho
 10. Calculus
 11. Linear Algebra
 12. Probabilities and Histograms
+
+
+## Notes
+* set a reminder. github runs on east coast time apparently.
